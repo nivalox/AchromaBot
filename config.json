@@ -4,6 +4,7 @@
   "poll_interval": 0.5,
   "typing_interval": 3,
   "auto_reply": true,
+  "max_message_length": 500,
   "silent_typing": {
     "method": "DELETE",
     "url": "https://bikesense.org/api/chat/typing",
@@ -27,6 +28,12 @@
     "screen": "431x958",
     "platform": "Android",
     "touch": true
+  },
+  "ai": {
+    "model": "gemini-3.5-flash-lite",
+    "max_chars": 500,
+    "cooldown": 10,
+    "system_prompt": "You are a helpful assistant replying in a chat room. Never go over {max_chars} characters when responding. Use no specific formatting, only plain text responses."
   },
   "quickacc_password": "",
   "channels": [
