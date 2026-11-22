@@ -87,7 +87,7 @@ Install dependencies:
 pip install requests
 ```
 
-Run AchromaBot:
+Run Axion:
 
 ```bash
 python main.py
@@ -116,7 +116,7 @@ py -m pip install --upgrade pip
 py -m pip install requests
 ```
 
-Run AchromaBot:
+Run Axion:
 
 ```powershell
 py main.py
@@ -144,7 +144,7 @@ Install dependencies:
 python3 -m pip install --user requests
 ```
 
-Run AchromaBot:
+Run Axion:
 
 ```bash
 python3 main.py
@@ -190,7 +190,7 @@ To configure Gemini:
 
 Your API key is stored in `secrets.json`.
 
-## Running AchromaBot
+## Running Axion
 
 After installation and dependency setup:
 
