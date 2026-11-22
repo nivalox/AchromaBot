@@ -1,7 +1,6 @@
 {
   "cookie": "",
-  "channel": "general",
-  "target_user": "",
+  "target_user": "nivalos",
   "poll_interval": 0.5,
   "typing_interval": 3,
   "auto_reply": true,
@@ -14,13 +13,13 @@
     "interval": 0.3
   },
   "profile": {
-    "display_name": "",
-    "username": "",
+    "display_name": "github.com/nivalox/AchromaBot",
+    "username": "nivalos",
     "bio": "I develop in B, C, JS, Python, LuaU, HTML, CSS, and other languages."
   },
   "autoreact": {
     "enabled": false,
-    "emoji": "🇮🇱",
+    "emoji": "😭",
     "users": []
   },
   "device": {
@@ -28,5 +27,10 @@
     "screen": "431x958",
     "platform": "Android",
     "touch": true
-  }
+  },
+  "quickacc_password": "",
+  "channels": [
+    "general",
+    "media"
+  ]
 }
