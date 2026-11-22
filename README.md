@@ -77,8 +77,8 @@ pkg install python git -y
 Clone AchromaBot:
 
 ```bash
-git clone https://github.com/nivalox/AchromaBot.git AchromaBot
-cd AchromaBot
+git clone https://github.com/nivalox/Axion.git Axion
+cd Axion
 ```
 
 Install dependencies:
@@ -105,8 +105,8 @@ winget install Git.Git
 Restart your terminal, then clone the repository:
 
 ```powershell
-git clone https://github.com/nivalox/AchromaBot.git AchromaBot
-cd AchromaBot
+git clone https://github.com/nivalox/Axion.git Axion
+cd Axion
 ```
 
 Install dependencies:
@@ -134,8 +134,8 @@ sudo apt install python3 python3-pip git -y
 Clone AchromaBot:
 
 ```bash
-git clone https://github.com/nivalox/AchromaBot.git AchromaBot
-cd AchromaBot
+git clone https://github.com/nivalox/Axion.git Axion
+cd Axion
 ```
 
 Install dependencies:
