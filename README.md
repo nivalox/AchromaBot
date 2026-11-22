@@ -59,7 +59,7 @@ These commands are available directly in the terminal.
 
 ## Installation
 
-AchromaBot supports:
+Axion supports:
 
 - Android (Termux)
 - Windows
