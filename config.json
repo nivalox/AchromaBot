@@ -1,0 +1,32 @@
+{
+  "cookie": "",
+  "channel": "general",
+  "target_user": "",
+  "poll_interval": 0.5,
+  "typing_interval": 3,
+  "auto_reply": true,
+  "silent_typing": {
+    "method": "DELETE",
+    "url": "https://bikesense.org/api/chat/typing",
+    "payload": {
+      "channel": "general"
+    },
+    "interval": 0.3
+  },
+  "profile": {
+    "display_name": "",
+    "username": "",
+    "bio": "I develop in B, C, JS, Python, LuaU, HTML, CSS, and other languages."
+  },
+  "autoreact": {
+    "enabled": false,
+    "emoji": "🇮🇱",
+    "users": []
+  },
+  "device": {
+    "tz": "America/New_York",
+    "screen": "431x958",
+    "platform": "Android",
+    "touch": true
+  }
+}
