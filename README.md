@@ -8,7 +8,7 @@
 
 ## Features
 
-AchromaBot provides chat automation, account management, profile customization, AI integration, and message monitoring.
+Axion provides chat automation, account management, profile customization, AI integration, and message monitoring.
 
 ### Chat Commands
 
@@ -76,7 +76,7 @@ pkg update && pkg upgrade -y
 pkg install python git -y
 ```
 
-Clone AchromaBot:
+Clone Axion:
 
 ```bash
 git clone https://github.com/nivalox/Axion.git Axion
@@ -133,7 +133,7 @@ sudo apt update
 sudo apt install python3 python3-pip git -y
 ```
 
-Clone AchromaBot:
+Clone Axion:
 
 ```bash
 git clone https://github.com/nivalox/Axion.git Axion
