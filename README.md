@@ -87,6 +87,7 @@ Install dependencies:
 
 ```bash
 pip install requests
+pip install colorama
 ```
 
 Run Axion:
@@ -116,6 +117,7 @@ Install dependencies:
 ```powershell
 py -m pip install --upgrade pip
 py -m pip install requests
+py -m pip install colorama
 ```
 
 Run Axion:
@@ -144,6 +146,7 @@ Install dependencies:
 
 ```bash
 python3 -m pip install --user requests
+python3 -m pip install --user colorama
 ```
 
 Run Axion:
@@ -159,6 +162,7 @@ Axion uses Python's standard library alongside the following external package:
 | Dependency | Purpose |
 |---|---|
 | `requests` | HTTP requests and API communication |
+| `colorama` | Color's for the Axion CLI Menu |
 
 The following modules are included with Python and require no additional installation:
 
