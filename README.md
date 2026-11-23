@@ -157,12 +157,12 @@ python3 main.py
 
 ## Dependencies
 
-Axion uses Python's standard library alongside the following external package:
+Axion uses Python's standard library alongside the following external packages:
 
 | Dependency | Purpose |
 |---|---|
 | `requests` | HTTP requests and API communication |
-| `colorama` | Color's for the Axion CLI Menu |
+| `colorama` | Colors for the Axion CLI Menu |
 
 The following modules are included with Python and require no additional installation:
 
