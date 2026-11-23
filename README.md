@@ -154,7 +154,7 @@ python3 main.py
 
 ## Dependencies
 
-AchromaBot uses Python's standard library alongside the following external package:
+Axion uses Python's standard library alongside the following external package:
 
 | Dependency | Purpose |
 |---|---|
@@ -184,7 +184,7 @@ The following modules are included with Python and require no additional install
 
 To configure Gemini:
 
-1. Start AchromaBot.
+1. Start Axion.
 2. Run `aikey` in the terminal.
 3. Enter your Gemini API key through the hidden input.
 4. Use `aimodels` to see available models.
