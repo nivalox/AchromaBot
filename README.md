@@ -3,6 +3,7 @@
 ### A full-featured Achroma selfbot written in Python.
 
 > Thanks @LATUFFGUYMAINACC for muting me. You're gonna get demoted for this.
+
 > HM @vxh for terminating my account because his ego is to small, your going to end up demoted by tonight as of November 23rd, 2026, cosmic is going to strip you of all of your roles.
 
 ## Features
